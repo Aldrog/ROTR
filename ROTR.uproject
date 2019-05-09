@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{00041687-08D6-D1D4-48CA-FBDE3DBC65C9}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ROTR",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
